@@ -20,8 +20,8 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 ext {
-//    springCloudVersion = 'Edgware.SR2'
-    springCloudVersion = 'Edgware.M1'
+    springCloudVersion = 'Edgware.SR2'
+//    springCloudVersion = 'Edgware.M1'
 //    springCloudVersion = 'Edgware.RC1'
 }
 
